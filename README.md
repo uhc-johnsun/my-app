@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is for Ventera Coding Challenge.  
+
+It is implemented in using Dropzone dnd to upload the student homework and planned to use convert-units to grade the student homework. To experience the occurrence, find a .csv file my-app/public folder. Due to the time constraint, the automatic grade and saving results functionalities are not completed.
+
+Also, this project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
