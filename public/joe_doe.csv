@@ -1,0 +1,7 @@
+Input Numerical Value, Input Unit of Measure, Target Unit of Measure, Student Response, Output
+84.2, Fahrenheit, Rankine, 543.94, correct
+317.33, Kelvin, Fahrenheit, 111.554, incorrect
+25.6, cups, liters, 6.1, correct
+73.12, gallons, Kelvin, 19.4, invalid
+6.5, Fahrenheit, Rankine, dog, incorrect
+136.1, dog, Celsius, 45.32, invalid
